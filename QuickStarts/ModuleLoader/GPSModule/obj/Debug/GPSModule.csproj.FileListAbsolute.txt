@@ -1,0 +1,7 @@
+D:\Development\CSharp\QuickStarts\ModuleLoader\GPSModule\obj\Debug\GPSModule.GPSView.resources
+D:\Development\CSharp\QuickStarts\ModuleLoader\GPSModule\obj\Debug\GPSModule.csproj.GenerateResource.Cache
+D:\Development\CSharp\QuickStarts\ModuleLoader\ModuleLoaderQuickStart\bin\Debug\GPSModule.dll
+D:\Development\CSharp\QuickStarts\ModuleLoader\ModuleLoaderQuickStart\bin\Debug\GPSModule.pdb
+D:\Development\CSharp\QuickStarts\ModuleLoader\GPSModule\obj\Debug\GPSModule.csprojResolveAssemblyReference.cache
+D:\Development\CSharp\QuickStarts\ModuleLoader\GPSModule\obj\Debug\GPSModule.dll
+D:\Development\CSharp\QuickStarts\ModuleLoader\GPSModule\obj\Debug\GPSModule.pdb

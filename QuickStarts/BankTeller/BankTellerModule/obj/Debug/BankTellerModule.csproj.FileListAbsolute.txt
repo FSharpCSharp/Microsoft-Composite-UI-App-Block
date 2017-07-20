@@ -1,0 +1,14 @@
+D:\Development\CSharp\QuickStarts\BankTeller\BankShell\bin\Debug\BankTellerModule.dll
+D:\Development\CSharp\QuickStarts\BankTeller\BankShell\bin\Debug\BankTellerModule.pdb
+D:\Development\CSharp\QuickStarts\BankTeller\BankTellerModule\obj\Debug\BankTellerModule.Properties.Resources.resources
+D:\Development\CSharp\QuickStarts\BankTeller\BankTellerModule\obj\Debug\BankTellerModule.SideBarView.resources
+D:\Development\CSharp\QuickStarts\BankTeller\BankTellerModule\obj\Debug\BankTellerModule.CustomerAccountsView.resources
+D:\Development\CSharp\QuickStarts\BankTeller\BankTellerModule\obj\Debug\BankTellerModule.CustomerCommentsView.resources
+D:\Development\CSharp\QuickStarts\BankTeller\BankTellerModule\obj\Debug\BankTellerModule.CustomerHeaderView.resources
+D:\Development\CSharp\QuickStarts\BankTeller\BankTellerModule\obj\Debug\BankTellerModule.CustomerDetailView.resources
+D:\Development\CSharp\QuickStarts\BankTeller\BankTellerModule\obj\Debug\BankTellerModule.CustomerSummaryView.resources
+D:\Development\CSharp\QuickStarts\BankTeller\BankTellerModule\obj\Debug\BankTellerModule.CustomerQueueView.resources
+D:\Development\CSharp\QuickStarts\BankTeller\BankTellerModule\obj\Debug\BankTellerModule.UserInfoView.resources
+D:\Development\CSharp\QuickStarts\BankTeller\BankTellerModule\obj\Debug\BankTellerModule.csproj.GenerateResource.Cache
+D:\Development\CSharp\QuickStarts\BankTeller\BankTellerModule\obj\Debug\BankTellerModule.dll
+D:\Development\CSharp\QuickStarts\BankTeller\BankTellerModule\obj\Debug\BankTellerModule.pdb

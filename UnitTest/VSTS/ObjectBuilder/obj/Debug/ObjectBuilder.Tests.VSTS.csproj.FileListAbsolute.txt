@@ -1,0 +1,9 @@
+D:\Development\CSharp\UnitTest\VSTS\ObjectBuilder\bin\Debug\Microsoft.Practices.ObjectBuilder.Tests.VSTS.dll
+D:\Development\CSharp\UnitTest\VSTS\ObjectBuilder\bin\Debug\Microsoft.Practices.ObjectBuilder.Tests.VSTS.pdb
+D:\Development\CSharp\UnitTest\VSTS\ObjectBuilder\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\Development\CSharp\UnitTest\VSTS\ObjectBuilder\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Development\CSharp\UnitTest\VSTS\ObjectBuilder\bin\Debug\Microsoft.Practices.ObjectBuilder.pdb
+D:\Development\CSharp\UnitTest\VSTS\ObjectBuilder\bin\Debug\Microsoft.Practices.ObjectBuilder.xml
+D:\Development\CSharp\UnitTest\VSTS\ObjectBuilder\obj\Debug\ObjectBuilder.Tests.VSTS.csprojResolveAssemblyReference.cache
+D:\Development\CSharp\UnitTest\VSTS\ObjectBuilder\obj\Debug\Microsoft.Practices.ObjectBuilder.Tests.VSTS.dll
+D:\Development\CSharp\UnitTest\VSTS\ObjectBuilder\obj\Debug\Microsoft.Practices.ObjectBuilder.Tests.VSTS.pdb

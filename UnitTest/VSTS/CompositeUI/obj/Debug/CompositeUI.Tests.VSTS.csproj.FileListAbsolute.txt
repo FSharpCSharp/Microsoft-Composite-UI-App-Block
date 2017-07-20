@@ -1,0 +1,12 @@
+D:\Development\CSharp\UnitTest\VSTS\CompositeUI\bin\Debug\Microsoft.Practices.CompositeUI.Tests.VSTS.dll
+D:\Development\CSharp\UnitTest\VSTS\CompositeUI\bin\Debug\Microsoft.Practices.CompositeUI.Tests.VSTS.pdb
+D:\Development\CSharp\UnitTest\VSTS\CompositeUI\bin\Debug\Microsoft.Practices.CompositeUI.dll
+D:\Development\CSharp\UnitTest\VSTS\CompositeUI\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\Development\CSharp\UnitTest\VSTS\CompositeUI\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Development\CSharp\UnitTest\VSTS\CompositeUI\bin\Debug\Microsoft.Practices.CompositeUI.pdb
+D:\Development\CSharp\UnitTest\VSTS\CompositeUI\bin\Debug\Microsoft.Practices.CompositeUI.xml
+D:\Development\CSharp\UnitTest\VSTS\CompositeUI\bin\Debug\Microsoft.Practices.ObjectBuilder.pdb
+D:\Development\CSharp\UnitTest\VSTS\CompositeUI\bin\Debug\Microsoft.Practices.ObjectBuilder.xml
+D:\Development\CSharp\UnitTest\VSTS\CompositeUI\obj\Debug\CompositeUI.Tests.VSTS.csprojResolveAssemblyReference.cache
+D:\Development\CSharp\UnitTest\VSTS\CompositeUI\obj\Debug\Microsoft.Practices.CompositeUI.Tests.VSTS.dll
+D:\Development\CSharp\UnitTest\VSTS\CompositeUI\obj\Debug\Microsoft.Practices.CompositeUI.Tests.VSTS.pdb

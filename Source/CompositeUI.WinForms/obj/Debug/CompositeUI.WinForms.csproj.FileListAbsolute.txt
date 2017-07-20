@@ -1,0 +1,15 @@
+D:\Development\CSharp\Source\CompositeUI.WinForms\bin\Debug\Microsoft.Practices.CompositeUI.WinForms.XML
+D:\Development\CSharp\Source\CompositeUI.WinForms\obj\Debug\CompositeUI.WinForms.csprojResolveAssemblyReference.cache
+D:\Development\CSharp\Source\CompositeUI.WinForms\obj\Debug\Microsoft.Practices.CompositeUI.WinForms.Properties.Resources.resources
+D:\Development\CSharp\Source\CompositeUI.WinForms\obj\Debug\Microsoft.Practices.CompositeUI.WinForms.Visualizer.VisualizerForm.resources
+D:\Development\CSharp\Source\CompositeUI.WinForms\obj\Debug\CompositeUI.WinForms.csproj.GenerateResource.Cache
+D:\Development\CSharp\Source\CompositeUI.WinForms\bin\Debug\Microsoft.Practices.CompositeUI.WinForms.dll
+D:\Development\CSharp\Source\CompositeUI.WinForms\bin\Debug\Microsoft.Practices.CompositeUI.WinForms.pdb
+D:\Development\CSharp\Source\CompositeUI.WinForms\bin\Debug\Microsoft.Practices.CompositeUI.dll
+D:\Development\CSharp\Source\CompositeUI.WinForms\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\Development\CSharp\Source\CompositeUI.WinForms\bin\Debug\Microsoft.Practices.CompositeUI.pdb
+D:\Development\CSharp\Source\CompositeUI.WinForms\bin\Debug\Microsoft.Practices.CompositeUI.xml
+D:\Development\CSharp\Source\CompositeUI.WinForms\bin\Debug\Microsoft.Practices.ObjectBuilder.pdb
+D:\Development\CSharp\Source\CompositeUI.WinForms\bin\Debug\Microsoft.Practices.ObjectBuilder.xml
+D:\Development\CSharp\Source\CompositeUI.WinForms\obj\Debug\Microsoft.Practices.CompositeUI.WinForms.dll
+D:\Development\CSharp\Source\CompositeUI.WinForms\obj\Debug\Microsoft.Practices.CompositeUI.WinForms.pdb

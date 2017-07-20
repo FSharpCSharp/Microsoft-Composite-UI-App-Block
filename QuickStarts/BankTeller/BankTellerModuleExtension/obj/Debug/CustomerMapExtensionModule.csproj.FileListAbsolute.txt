@@ -1,0 +1,8 @@
+D:\Development\CSharp\QuickStarts\BankTeller\BankShell\bin\Debug\CustomerMapExtensionModule.dll
+D:\Development\CSharp\QuickStarts\BankTeller\BankShell\bin\Debug\CustomerMapExtensionModule.pdb
+D:\Development\CSharp\QuickStarts\BankTeller\BankTellerModuleExtension\obj\Debug\CustomerMapExtensionModule.csprojResolveAssemblyReference.cache
+D:\Development\CSharp\QuickStarts\BankTeller\BankTellerModuleExtension\obj\Debug\CustomerMapExtensionModule.CustomerMap.resources
+D:\Development\CSharp\QuickStarts\BankTeller\BankTellerModuleExtension\obj\Debug\CustomerMapExtensionModule.Properties.Resources.resources
+D:\Development\CSharp\QuickStarts\BankTeller\BankTellerModuleExtension\obj\Debug\CustomerMapExtensionModule.csproj.GenerateResource.Cache
+D:\Development\CSharp\QuickStarts\BankTeller\BankTellerModuleExtension\obj\Debug\CustomerMapExtensionModule.dll
+D:\Development\CSharp\QuickStarts\BankTeller\BankTellerModuleExtension\obj\Debug\CustomerMapExtensionModule.pdb

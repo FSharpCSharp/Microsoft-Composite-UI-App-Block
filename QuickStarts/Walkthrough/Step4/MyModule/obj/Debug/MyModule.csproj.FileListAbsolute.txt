@@ -1,0 +1,7 @@
+D:\Development\CSharp\QuickStarts\Walkthrough\Step4\ShellApplication\bin\Debug\MyModule.dll
+D:\Development\CSharp\QuickStarts\Walkthrough\Step4\ShellApplication\bin\Debug\MyModule.pdb
+D:\Development\CSharp\QuickStarts\Walkthrough\Step4\MyModule\obj\Debug\MyModule.csprojResolveAssemblyReference.cache
+D:\Development\CSharp\QuickStarts\Walkthrough\Step4\MyModule\obj\Debug\MyModule.MyView.resources
+D:\Development\CSharp\QuickStarts\Walkthrough\Step4\MyModule\obj\Debug\MyModule.csproj.GenerateResource.Cache
+D:\Development\CSharp\QuickStarts\Walkthrough\Step4\MyModule\obj\Debug\MyModule.dll
+D:\Development\CSharp\QuickStarts\Walkthrough\Step4\MyModule\obj\Debug\MyModule.pdb

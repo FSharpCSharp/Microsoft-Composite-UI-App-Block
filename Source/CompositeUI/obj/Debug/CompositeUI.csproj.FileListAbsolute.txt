@@ -1,0 +1,11 @@
+D:\Development\CSharp\Source\CompositeUI\bin\Debug\Microsoft.Practices.CompositeUI.XML
+D:\Development\CSharp\Source\CompositeUI\bin\Debug\Microsoft.Practices.CompositeUI.dll
+D:\Development\CSharp\Source\CompositeUI\bin\Debug\Microsoft.Practices.CompositeUI.pdb
+D:\Development\CSharp\Source\CompositeUI\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\Development\CSharp\Source\CompositeUI\bin\Debug\Microsoft.Practices.ObjectBuilder.pdb
+D:\Development\CSharp\Source\CompositeUI\bin\Debug\Microsoft.Practices.ObjectBuilder.xml
+D:\Development\CSharp\Source\CompositeUI\obj\Debug\CompositeUI.csprojResolveAssemblyReference.cache
+D:\Development\CSharp\Source\CompositeUI\obj\Debug\Microsoft.Practices.CompositeUI.Properties.Resources.resources
+D:\Development\CSharp\Source\CompositeUI\obj\Debug\CompositeUI.csproj.GenerateResource.Cache
+D:\Development\CSharp\Source\CompositeUI\obj\Debug\Microsoft.Practices.CompositeUI.dll
+D:\Development\CSharp\Source\CompositeUI\obj\Debug\Microsoft.Practices.CompositeUI.pdb

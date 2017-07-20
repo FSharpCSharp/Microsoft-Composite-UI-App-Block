@@ -1,0 +1,7 @@
+D:\Development\CSharp\Source\ObjectBuilder\bin\Debug\Microsoft.Practices.ObjectBuilder.XML
+D:\Development\CSharp\Source\ObjectBuilder\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\Development\CSharp\Source\ObjectBuilder\bin\Debug\Microsoft.Practices.ObjectBuilder.pdb
+D:\Development\CSharp\Source\ObjectBuilder\obj\Debug\Microsoft.Practices.ObjectBuilder.Properties.Resources.resources
+D:\Development\CSharp\Source\ObjectBuilder\obj\Debug\ObjectBuilder.csproj.GenerateResource.Cache
+D:\Development\CSharp\Source\ObjectBuilder\obj\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\Development\CSharp\Source\ObjectBuilder\obj\Debug\Microsoft.Practices.ObjectBuilder.pdb

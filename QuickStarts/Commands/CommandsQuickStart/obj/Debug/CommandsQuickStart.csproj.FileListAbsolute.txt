@@ -1,0 +1,17 @@
+D:\Development\CSharp\QuickStarts\Commands\CommandsQuickStart\bin\Debug\SampleCommandMap.xml
+D:\Development\CSharp\QuickStarts\Commands\CommandsQuickStart\bin\Debug\CommandsQuickStart.exe
+D:\Development\CSharp\QuickStarts\Commands\CommandsQuickStart\bin\Debug\CommandsQuickStart.pdb
+D:\Development\CSharp\QuickStarts\Commands\CommandsQuickStart\bin\Debug\Microsoft.Practices.CompositeUI.dll
+D:\Development\CSharp\QuickStarts\Commands\CommandsQuickStart\bin\Debug\Microsoft.Practices.CompositeUI.WinForms.dll
+D:\Development\CSharp\QuickStarts\Commands\CommandsQuickStart\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\Development\CSharp\QuickStarts\Commands\CommandsQuickStart\bin\Debug\Microsoft.Practices.CompositeUI.WinForms.pdb
+D:\Development\CSharp\QuickStarts\Commands\CommandsQuickStart\bin\Debug\Microsoft.Practices.CompositeUI.WinForms.xml
+D:\Development\CSharp\QuickStarts\Commands\CommandsQuickStart\bin\Debug\Microsoft.Practices.CompositeUI.pdb
+D:\Development\CSharp\QuickStarts\Commands\CommandsQuickStart\bin\Debug\Microsoft.Practices.CompositeUI.xml
+D:\Development\CSharp\QuickStarts\Commands\CommandsQuickStart\bin\Debug\Microsoft.Practices.ObjectBuilder.pdb
+D:\Development\CSharp\QuickStarts\Commands\CommandsQuickStart\bin\Debug\Microsoft.Practices.ObjectBuilder.xml
+D:\Development\CSharp\QuickStarts\Commands\CommandsQuickStart\obj\Debug\CommandsQuickStart.ShellForm.resources
+D:\Development\CSharp\QuickStarts\Commands\CommandsQuickStart\obj\Debug\CommandsQuickStart.Properties.Resources.resources
+D:\Development\CSharp\QuickStarts\Commands\CommandsQuickStart\obj\Debug\CommandsQuickStart.csproj.GenerateResource.Cache
+D:\Development\CSharp\QuickStarts\Commands\CommandsQuickStart\obj\Debug\CommandsQuickStart.exe
+D:\Development\CSharp\QuickStarts\Commands\CommandsQuickStart\obj\Debug\CommandsQuickStart.pdb
